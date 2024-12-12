@@ -1,18 +1,45 @@
-## Getting Started
+# 📚 Study Repository
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+폰드메이커스 개발자 스터디 활동을 체계적으로 기록하고 공유하는 공간입니다. 이곳에는 각 스터디 세션의 내용, 기간, 참여자, 멘토 정보를 제공합니다.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 📝 **스터디 개요**
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- **목적**: 개발 및 기술 역량 강화를 위한 체계적인 학습과 지식 공유.
+- **형식**: 주 단위 스터디 세션 진행 및 기록.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📆 **기간별 스터디 내용**
 
-## Dependency Management
+| **기간**        | **주제**                          | **학습 내용**                                     | **비고**          |
+|-----------------|-----------------------------------|--------------------------------------------------|------------------|
+| **2024/10/10-12/05**    | **그림으로 배우는 Http & Network Basic**                    | 프로토콜 및 네트워크의 기본 내용                    | 노션에 기입, 코드 X      |
+| **2024/12/05~**    | **네트워크 프로그래밍 with 자바**               | 네트워크 프로그래밍 응용 내용                 | -      |
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 👥 **참여자**
+
+| **이름**         | **GitHub ID**         | **역할**          |
+|------------------|-----------------------|-------------------|
+| 이현진           | [@lhj5924](#)         | 프론트엔드 개발자 |
+
+---
+
+## 🧑‍🏫 **멘토**
+
+| **이름**        | **GitHub ID**         | **전문 분야**             |
+|-----------------|-----------------------|--------------------------|
+| 장성균          | [@sotolab](#)   | 소프트웨어개발자멘토        |
+
+---
+
+## 🏆 **스터디 목표**
+
+- 자신의 직무를 뛰어넘는 개발자로 성장.
+- 지식 공유를 통한 지속 가능한 학습.
+- 실무에 바로 적용할 수 있는 기술 습득.
+
+🎉 **모두 열심히 참여하고 즐겁게 공부합시다!** 🚀
